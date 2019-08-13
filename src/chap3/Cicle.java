@@ -9,6 +9,6 @@ package chap3;
  *
  * @author papercut
  */
-public class Circle {
+public class Cicle {
     
 }
